@@ -662,15 +662,15 @@ include::{basedir}/prj-7/build.gradle[indent=0]
 
 * [size110]#Build, test, run, create start scripts: https://github.com/java9-modularity/gradle-modules-plugin[gradle-modules-plugin]#
 
+* [size110]#Create modular JARs targeting Java 8 or older: https://github.com/java9-modularity/gradle-modules-plugin#compilation-to-a-specific-java-release[gradle-modules-plugin]#
+
 * [size110]#Create custom runtime images of modular applications:# +
 [size110]#&nbsp;&nbsp;&nbsp;&nbsp; https://github.com/beryx/badass-jlink-plugin[badass-jlink-plugin]# +
 [size110]#&nbsp;&nbsp;&nbsp;&nbsp; https://github.com/moditect/moditect-gradle-plugin[moditect-gradle-plugin]#
 
-* [size110]#Create custom runtime images of non-modular applications: https://github.com/beryx/badass-runtime-plugin[badass-runtime-plugin]#
+* [size110]#Create platform-specific application installers: https://github.com/beryx/badass-jlink-plugin[badass-jlink-plugin]#
 
-* [size110]#Create modular JARs targeting Java 8 or older:# +
-[size110]#&nbsp;&nbsp;&nbsp;&nbsp; https://github.com/java9-modularity/gradle-modules-plugin#compilation-to-a-specific-java-release[gradle-modules-plugin]# +
-[size110]#&nbsp;&nbsp;&nbsp;&nbsp; https://github.com/beryx/badass-jar-plugin[badass-jar-plugin]#
+* [size110]#Create custom runtime images of non-modular applications: https://github.com/beryx/badass-runtime-plugin[badass-runtime-plugin]#
 
 * [size110]#Use OpenJFX: https://github.com/openjfx/javafx-gradle-plugin[javafx-gradle-plugin]#
 
